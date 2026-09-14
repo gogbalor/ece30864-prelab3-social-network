@@ -1,0 +1,14 @@
+{
+  "jiraIssue": "CSP-10",
+  "demoOnly": true,
+  "example": {
+    "query": "ri",
+    "results": [
+      {
+        "memberId": "member-1",
+        "username": "river"
+      }
+    ],
+    "nextCursor": null
+  }
+}
