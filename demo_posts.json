@@ -1,0 +1,4 @@
+[
+  {"id": "post-1", "authorId": "member-1", "text": "Hello, social network!", "likes": 0},
+  {"id": "post-2", "authorId": "member-2", "text": "What are you reading this week?", "likes": 0}
+]
