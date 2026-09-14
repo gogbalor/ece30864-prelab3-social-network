@@ -1,0 +1,9 @@
+{
+  "jiraIssue": "CSP-8",
+  "demoOnly": true,
+  "example": {
+    "memberId": "member-1",
+    "authenticated": true,
+    "session": "fictional-demo-session"
+  }
+}
