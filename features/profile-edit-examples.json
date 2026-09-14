@@ -1,0 +1,9 @@
+{
+  "jiraIssue": "CSP-9",
+  "demoOnly": true,
+  "examples": [
+    {"actorId": "member-1", "ownerId": "member-1", "displayName": "River", "bio": "Books and weekend walks.", "expected": "accept"},
+    {"actorId": "member-2", "ownerId": "member-1", "displayName": "Changed", "bio": "", "expected": "deny-not-owner"},
+    {"actorId": "member-1", "ownerId": "member-1", "displayName": "", "bio": "", "expected": "reject-empty-display-name"}
+  ]
+}
