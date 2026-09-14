@@ -1,0 +1,11 @@
+{
+  "jiraIssue": "CSP-12",
+  "demoOnly": true,
+  "request": {"authorId": "member-1", "text": "Hello from Campus Circle!"},
+  "expectedPost": {"id": "post-3", "authorId": "member-1", "text": "Hello from Campus Circle!", "createdAt": "2026-09-14T03:00:00Z"},
+  "validationExamples": [
+    {"text": "", "expected": "reject-empty-post"},
+    {"text": "   ", "expected": "reject-whitespace-post"},
+    {"textLength": 281, "expected": "reject-over-limit-post"}
+  ]
+}
