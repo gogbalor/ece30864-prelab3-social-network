@@ -1,0 +1,9 @@
+{
+  "jiraIssue": "CSP-7",
+  "demoOnly": true,
+  "example": {
+    "username": "river",
+    "email": "river@example.test",
+    "password": "DEMO-NOT-A-REAL-PASSWORD"
+  }
+}
