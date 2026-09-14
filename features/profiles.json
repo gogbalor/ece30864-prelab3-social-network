@@ -1,0 +1,9 @@
+{
+  "jiraIssue": "CSP-9",
+  "demoOnly": true,
+  "example": {
+    "memberId": "member-1",
+    "displayName": "River",
+    "bio": "Sharing weekend walks."
+  }
+}
