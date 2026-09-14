@@ -1,0 +1,9 @@
+{
+  "jiraIssue": "CSP-11",
+  "demoOnly": true,
+  "example": {
+    "followerId": "member-1",
+    "followedId": "member-2",
+    "following": true
+  }
+}
